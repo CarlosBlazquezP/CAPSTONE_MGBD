@@ -1,0 +1,544 @@
+cod_tienda,ventas_valor_per_store,Channel,revenue_per_sqmeter,Provincia_x,Sectors,Provincia_y,Income,cluster_labels,cluster_id
+1,24415.94,Supermarkets,48.83188,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+2,8.52,Supermarkets,0.01704,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+3,174172.84,Supermarkets,145.1440333333,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+4,629539.99,Supermarkets,286.1545409091,Vizcaya,Industrial,Vizcaya,15555,The Socials,1
+5,151578.07,Supermarkets,168.4200777778,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+6,27570.64,Supermarkets,137.8532,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+7,20017.8,Supermarkets,40.0356,Asturias,Industrial,Asturias,13505,Traditional Store,3
+8,70887.05,Supermarkets,88.6088125,Navarra,Primary Sector,Navarra,14718,Slow stores,4
+9,152622.43,Supermarkets,190.7780375,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+10,26.8,Hipermarkets,0.0078823529,Leon,Primary Sector,Leon,12917,Slow stores,4
+11,3423.8,Supermarkets,17.119,Asturias,Industrial,Asturias,13505,Traditional Store,3
+12,488871.16,Supermarkets,444.4283272727,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+13,91431.52,Supermarkets,457.1576,Baleares,touristic,Baleares,12486,For the tourists,2
+14,126949.28,Supermarkets,253.89856,Asturias,Industrial,Asturias,13505,Traditional Store,3
+15,214584.37,Supermarkets,134.11523125,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+16,2693721.28,Hipermarkets,251.7496523364,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+17,281496.33,Supermarkets,216.5356384615,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+18,58055.39,Supermarkets,290.27695,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+19,850665.51,Supermarkets,447.7186894737,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+20,30362.7,Supermarkets,303.627,Murcia,Industrial,Murcia,10574,For the tourists,2
+21,602091.84,Hipermarkets,51.9044689655,Malaga,touristic,Malaga,10261,Suburban Stores,0
+22,8170.36,Supermarkets,40.8518,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+23,249765.5,Hipermarkets,83.2551666667,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+24,2988480.06,Hipermarkets,249.040005,Navarra,Primary Sector,Navarra,14718,Slow stores,4
+25,26433.79,Supermarkets,88.1126333333,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+26,189762.7,Supermarkets,237.203375,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+27,13.3,Supermarkets,0.0266,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+29,533581.73,Supermarkets,222.3257208333,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+30,217143.08,Supermarkets,542.8577,Granada,Industrial,Granada,10463,For the tourists,2
+31,168902.46,Supermarkets,241.2892285714,Burgos,Primary Sector,Burgos,13777,Slow stores,4
+32,72229.12,Supermarkets,180.5728,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+33,39.6,Supermarkets,0.132,Cadiz,Industrial,Cadiz,10113,Suburban Stores,0
+35,2540930.33,Hipermarkets,256.6596292929,Badajoz,Industrial,Badajoz,10001,Suburban Stores,0
+36,126405.12,Supermarkets,180.5787428571,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+37,133399.51,Supermarkets,190.5707285714,Leon,Primary Sector,Leon,12917,Slow stores,4
+38,283402.85,Supermarkets,472.3380833333,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+39,484718.54,Supermarkets,210.7471913043,Valencia,Industrial,Valencia,12333,Traditional Store,3
+40,206261.71,Supermarkets,103.130855,La Rioja,Industrial,La Rioja,12738,Traditional Store,3
+41,3.9,Hipermarkets,0.0013448276,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+42,4140876.76,Hipermarkets,475.962845977,Baleares,touristic,Baleares,12486,For the tourists,2
+43,1896822.09,Hipermarkets,110.9252684211,Valencia,Industrial,Valencia,12333,Traditional Store,3
+44,278598.07,Supermarkets,174.12379375,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+45,92.16,Supermarkets,0.3072,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+46,104834.6,Supermarkets,209.6692,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+47,101442.43,Supermarkets,202.88486,Granada,Industrial,Granada,10463,Suburban Stores,0
+48,361154.69,Supermarkets,225.72168125,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+49,63208.76,Supermarkets,90.2982285714,Navarra,Primary Sector,Navarra,14718,Slow stores,4
+50,3330611.33,Hipermarkets,317.2010790476,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+51,113046.99,Supermarkets,188.41165,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+52,32802.03,Supermarkets,164.01015,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+53,373478.29,Supermarkets,266.7702071429,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+54,143367.2,Supermarkets,204.8102857143,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+55,69305.16,Supermarkets,138.61032,Asturias,Industrial,Asturias,13505,Traditional Store,3
+56,190277.6,Supermarkets,271.8251428571,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+57,75035.87,Supermarkets,250.1195666667,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+58,17058.54,Supermarkets,28.4309,Asturias,Industrial,Asturias,13505,Traditional Store,3
+59,557306.07,Supermarkets,348.31629375,Zaragoza,Industrial,Zaragoza,13637,For the tourists,2
+60,211170.53,Supermarkets,234.6339222222,Alava,Industrial,Alava,14962,Traditional Store,3
+61,104120.51,Supermarkets,148.7435857143,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+62,62474.15,Supermarkets,69.4157222222,Ciudad Real,Industrial,Ciudad Real,10570,Suburban Stores,0
+63,9.24,Supermarkets,0.0077,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+64,174073.88,Supermarkets,580.2462666667,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+65,8.0,Supermarkets,0.0133333333,Cordoba,Industrial,Cordoba,10314,Suburban Stores,0
+66,85020.3,Supermarkets,283.401,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+67,109664.36,Supermarkets,219.32872,Vizcaya,Industrial,Vizcaya,15555,Smaller Metropolis,5
+68,40450.64,Supermarkets,134.8354666667,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+69,439472.48,Supermarkets,313.9089142857,Ciudad Real,Industrial,Ciudad Real,10570,For the tourists,2
+70,321164.45,Hipermarkets,37.7840529412,Malaga,touristic,Malaga,10261,Suburban Stores,0
+71,352850.05,Supermarkets,294.0417083333,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+72,579460.77,Supermarkets,643.8453,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+73,4338.88,Supermarkets,21.6944,Leon,Primary Sector,Leon,12917,Slow stores,4
+74,447716.53,Supermarkets,298.4776866667,Cadiz,Industrial,Cadiz,10113,For the tourists,2
+75,8.52,Supermarkets,0.0284,La Rioja,Industrial,La Rioja,12738,Traditional Store,3
+76,30335.59,Supermarkets,50.5593166667,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+77,899963.46,Supermarkets,499.9797,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+78,25446.76,Supermarkets,15.904225,Malaga,touristic,Malaga,10261,Suburban Stores,0
+79,42.6,Supermarkets,0.0852,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+80,19782.83,Supermarkets,32.9713833333,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+81,17177.07,Supermarkets,171.7707,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+82,552624.19,Supermarkets,307.0134388889,Granada,Industrial,Granada,10463,For the tourists,2
+83,226537.95,Supermarkets,283.1724375,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+84,3431.8,Supermarkets,5.7196666667,Segovia,Primary Sector,Segovia,12722,Slow stores,4
+85,141841.85,Supermarkets,354.604625,Baleares,touristic,Baleares,12486,For the tourists,2
+86,18867.95,Supermarkets,31.4465833333,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+87,236622.78,Supermarkets,236.62278,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+88,389931.6,Supermarkets,259.9544,Valencia,Industrial,Valencia,12333,For the tourists,2
+89,7849.4,Supermarkets,26.1646666667,Girona,touristic,Girona,12865,Slow stores,4
+90,391565.33,Hipermarkets,41.6558861702,Cadiz,Industrial,Cadiz,10113,Suburban Stores,0
+91,172049.36,Supermarkets,90.5522947368,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+92,59172.93,Supermarkets,197.2431,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+93,9114.93,Supermarkets,30.3831,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+94,102720.49,Supermarkets,205.44098,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+95,40138.39,Supermarkets,133.7946333333,Granada,Industrial,Granada,10463,Suburban Stores,0
+96,1151526.71,Hipermarkets,411.2595392857,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+97,226656.08,Supermarkets,453.31216,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+98,76948.27,Supermarkets,153.89654,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+99,1694.39,Supermarkets,8.47195,Asturias,Industrial,Asturias,13505,Traditional Store,3
+100,757173.17,Supermarkets,420.6517611111,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+101,354598.14,Supermarkets,322.3619454545,Cadiz,Industrial,Cadiz,10113,For the tourists,2
+102,562687.47,Supermarkets,244.646726087,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+103,252228.08,Supermarkets,280.2534222222,Granada,Industrial,Granada,10463,For the tourists,2
+104,10562.11,Supermarkets,21.12422,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+105,30077.45,Supermarkets,60.1549,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+106,19873.11,Supermarkets,22.0812333333,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+107,240715.45,Supermarkets,343.8792142857,Vizcaya,Industrial,Vizcaya,15555,The Socials,1
+108,867936.6,Supermarkets,482.187,Madrid,Metropolis,Madrid,15579,The Socials,1
+109,209711.26,Hipermarkets,25.2664168675,Toledo,Industrial,Toledo,10533,Suburban Stores,0
+110,3282015.2,Hipermarkets,303.8902962963,Alicante,touristic,Alicante,14962,The Socials,1
+111,31283.38,Supermarkets,156.4169,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+112,34831.37,Supermarkets,58.0522833333,Cordoba,Industrial,Cordoba,10314,Suburban Stores,0
+113,191223.41,Supermarkets,318.7056833333,Cadiz,Industrial,Cadiz,10113,For the tourists,2
+114,103605.45,Supermarkets,129.5068125,Girona,touristic,Girona,12865,Slow stores,4
+115,6065.71,Supermarkets,30.32855,Asturias,Industrial,Asturias,13505,Traditional Store,3
+116,461666.07,Supermarkets,288.54129375,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+117,41741.82,Supermarkets,139.1394,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+118,50.4,Supermarkets,0.0315,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+119,163462.79,Hipermarkets,20.6914924051,Pontevedra,Industrial,Pontevedra,11881,Traditional Store,3
+120,4.8,Supermarkets,0.0096,Valencia,Industrial,Valencia,12333,Traditional Store,3
+121,2239188.18,Hipermarkets,251.5941775281,Cadiz,Industrial,Cadiz,10113,Suburban Stores,0
+122,13968.83,Supermarkets,46.5627666667,Ourense,Industrial,Ourense,11937,Traditional Store,3
+123,4742.6,Supermarkets,7.9043333333,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+124,78448.81,Supermarkets,196.122025,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+125,1427269.16,Hipermarkets,528.6182074074,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+126,267568.64,Supermarkets,334.4608,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+127,2377.03,Supermarkets,4.75406,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+128,164926.85,Supermarkets,549.7561666667,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+129,18.24,Supermarkets,0.0456,Huelva,Primary Sector,Huelva,10112,Suburban Stores,0
+130,24607.45,Supermarkets,35.1535,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+131,454119.98,Hipermarkets,133.5647,Pontevedra,Industrial,Pontevedra,11881,Traditional Store,3
+132,26529.48,Supermarkets,37.8992571429,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+133,211787.09,Supermarkets,302.5529857143,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+134,110273.39,Supermarkets,157.5334142857,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+135,13447.36,Supermarkets,19.2105142857,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+136,541591.14,Supermarkets,361.06076,Murcia,Industrial,Murcia,10574,For the tourists,2
+137,779486.45,Hipermarkets,222.7104142857,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+138,164928.1,Supermarkets,549.7603333333,Madrid,Metropolis,Madrid,15579,The Socials,1
+139,125588.93,Supermarkets,418.6297666667,La Rioja,Industrial,La Rioja,12738,For the tourists,2
+141,5187.05,Supermarkets,8.6450833333,Asturias,Industrial,Asturias,13505,Traditional Store,3
+142,326498.04,Supermarkets,204.061275,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+143,197310.83,Supermarkets,493.277075,Valencia,Industrial,Valencia,12333,For the tourists,2
+144,490155.32,Supermarkets,196.062128,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+145,15108.06,Supermarkets,9.4425375,Granada,Industrial,Granada,10463,Suburban Stores,0
+146,93309.42,Supermarkets,155.5157,Guipuzkoa,Industrial,Guipuzkoa,16399,Smaller Metropolis,5
+147,20012.99,Supermarkets,50.032475,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+148,228916.21,Supermarkets,327.0231571429,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+149,2968311.13,Hipermarkets,285.4145317308,Sevilla,Industrial,Sevilla,10717,For the tourists,2
+150,591840.01,Supermarkets,422.7428642857,Alicante,touristic,Alicante,14962,The Socials,1
+151,1.45,Supermarkets,0.0018125,Baleares,touristic,Baleares,12486,Slow stores,4
+152,1192808.59,Hipermarkets,350.8260558824,Guipuzkoa,Industrial,Guipuzkoa,16399,The Socials,1
+153,10.03,Supermarkets,0.0167166667,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+154,33347.34,Supermarkets,111.1578,Ourense,Industrial,Ourense,11937,Traditional Store,3
+155,2344544.08,Hipermarkets,234.454408,Guipuzkoa,Industrial,Guipuzkoa,16399,Smaller Metropolis,5
+156,12307.46,Supermarkets,61.5373,Leon,Primary Sector,Leon,12917,Slow stores,4
+157,21750.04,Supermarkets,36.2500666667,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+158,1865860.03,Hipermarkets,149.2688024,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+159,362212.61,Supermarkets,517.4465857143,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+160,554520.37,Hipermarkets,69.31504625,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+161,3743.25,Supermarkets,7.4865,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+162,269063.59,Supermarkets,206.9719923077,Toledo,Industrial,Toledo,10533,Suburban Stores,0
+163,13498.87,Supermarkets,26.99774,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+164,309489.2,Supermarkets,257.9076666667,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+165,2.28,Supermarkets,0.00456,Huelva,Primary Sector,Huelva,10112,Suburban Stores,0
+167,16255.43,Supermarkets,10.15964375,Huesca,Primary Sector,Huesca,13158,Slow stores,4
+168,245285.49,Hipermarkets,22.7116194444,Cadiz,Industrial,Cadiz,10113,Suburban Stores,0
+169,339455.78,Hipermarkets,99.8399352941,Huesca,Primary Sector,Huesca,13158,Slow stores,4
+170,534196.84,Supermarkets,232.2594956522,Badajoz,Industrial,Badajoz,10001,Suburban Stores,0
+171,603116.73,Supermarkets,603.11673,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+172,243115.92,Supermarkets,810.3864,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Cosmopolitans,6
+173,1946860.0,Hipermarkets,190.868627451,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+174,113902.82,Supermarkets,1139.0282,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Cosmopolitans,6
+175,111879.74,Supermarkets,559.3987,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+176,212797.5,Supermarkets,141.865,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+177,37086.98,Supermarkets,46.358725,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+178,900245.42,Hipermarkets,94.7626757895,Asturias,Industrial,Asturias,13505,Traditional Store,3
+179,841561.05,Supermarkets,601.1150357143,Granada,Industrial,Granada,10463,For the tourists,2
+180,85899.93,Supermarkets,143.16655,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+181,922.89,Supermarkets,3.0763,Lleida,Primary Sector,Lleida,12896,Slow stores,4
+182,2520507.75,Hipermarkets,240.0483571429,Malaga,touristic,Malaga,10261,Suburban Stores,0
+183,395627.89,Supermarkets,219.7932722222,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+184,52482.59,Supermarkets,104.96518,Guipuzkoa,Industrial,Guipuzkoa,16399,Smaller Metropolis,5
+185,362586.51,Supermarkets,329.6241,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+186,50505.65,Supermarkets,84.1760833333,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+187,393992.42,Hipermarkets,127.0943290323,Navarra,Primary Sector,Navarra,14718,Slow stores,4
+189,267844.38,Supermarkets,892.8146,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Cosmopolitans,6
+190,330132.02,Supermarkets,165.06601,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+191,42716.95,Supermarkets,106.792375,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+192,345412.31,Supermarkets,314.0111909091,Alicante,touristic,Alicante,14962,The Socials,1
+193,241573.7,Supermarkets,172.5526428571,Valencia,Industrial,Valencia,12333,Traditional Store,3
+194,1210111.5,Hipermarkets,417.2798275862,Vizcaya,Industrial,Vizcaya,15555,The Socials,1
+195,1772254.94,Hipermarkets,148.9289865546,Vizcaya,Industrial,Vizcaya,15555,Smaller Metropolis,5
+196,4362526.85,Hipermarkets,382.6777938596,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+199,168483.18,Supermarkets,84.24159,Alava,Industrial,Alava,14962,Traditional Store,3
+200,8073.97,Supermarkets,20.184925,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+201,285429.56,Supermarkets,1427.1478,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Cosmopolitans,6
+202,129905.26,Supermarkets,92.7894714286,Asturias,Industrial,Asturias,13505,Traditional Store,3
+203,37841.74,Supermarkets,23.6510875,Ciudad Real,Industrial,Ciudad Real,10570,Suburban Stores,0
+204,115176.04,Hipermarkets,14.5792455696,Cordoba,Industrial,Cordoba,10314,Suburban Stores,0
+205,202970.41,Supermarkets,289.9577285714,Cordoba,Industrial,Cordoba,10314,For the tourists,2
+206,128818.79,Supermarkets,322.046975,Guipuzkoa,Industrial,Guipuzkoa,16399,The Socials,1
+207,2279762.07,Hipermarkets,199.9791289474,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+208,35247.93,Supermarkets,58.74655,Albacete,Industrial,Albacete,11104,Suburban Stores,0
+209,112066.37,Supermarkets,140.0829625,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+210,6.99,Supermarkets,0.01398,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+211,19.2,Supermarkets,0.032,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+212,14.16,Supermarkets,0.0354,Huelva,Primary Sector,Huelva,10112,Suburban Stores,0
+213,215691.91,Supermarkets,431.38382,Sevilla,Industrial,Sevilla,10717,For the tourists,2
+214,193866.98,Supermarkets,215.4077555556,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+215,124458.21,Supermarkets,155.5727625,Pontevedra,Industrial,Pontevedra,11881,Traditional Store,3
+216,144225.57,Hipermarkets,43.7047181818,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+217,511261.68,Supermarkets,639.0771,Toledo,Industrial,Toledo,10533,For the tourists,2
+218,439034.16,Hipermarkets,156.7979142857,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+219,185194.06,Supermarkets,231.492575,Girona,touristic,Girona,12865,Slow stores,4
+220,27495.3,Supermarkets,91.651,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+221,210001.56,Supermarkets,131.250975,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+222,22208.21,Supermarkets,44.41642,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+223,196738.8,Supermarkets,122.96175,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+224,568454.98,Supermarkets,437.2730615385,Valencia,Industrial,Valencia,12333,For the tourists,2
+225,1807439.42,Hipermarkets,376.5498791667,Navarra,Primary Sector,Navarra,14718,The Socials,1
+226,2971195.28,Hipermarkets,285.6918538462,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+227,182596.3,Supermarkets,228.245375,Alicante,touristic,Alicante,14962,Smaller Metropolis,5
+228,5348471.18,Hipermarkets,402.1406902256,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+229,1029066.73,Supermarkets,514.533365,Zaragoza,Industrial,Zaragoza,13637,For the tourists,2
+230,234012.24,Supermarkets,180.0094153846,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+231,6019.74,Supermarkets,3.7623375,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+232,24376.44,Supermarkets,40.6274,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+233,53625.34,Supermarkets,178.7511333333,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+234,2515.53,Supermarkets,4.19255,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+235,219392.76,Supermarkets,243.7697333333,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+236,160838.54,Supermarkets,160.83854,Leon,Primary Sector,Leon,12917,Slow stores,4
+237,5062.77,Supermarkets,10.12554,Vizcaya,Industrial,Vizcaya,15555,Traditional Store,3
+238,27895.54,Supermarkets,46.4925666667,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+239,560641.16,Supermarkets,467.2009666667,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+240,4998.12,Supermarkets,8.3302,Asturias,Industrial,Asturias,13505,Traditional Store,3
+241,261484.17,Hipermarkets,87.16139,Cadiz,Industrial,Cadiz,10113,Suburban Stores,0
+242,132064.98,Supermarkets,146.7388666667,Malaga,touristic,Malaga,10261,Suburban Stores,0
+243,376962.96,Supermarkets,251.30864,La Rioja,Industrial,La Rioja,12738,Traditional Store,3
+244,7077.81,Supermarkets,11.79635,Badajoz,Industrial,Badajoz,10001,Suburban Stores,0
+245,580806.37,Supermarkets,484.0053083333,Cadiz,Industrial,Cadiz,10113,For the tourists,2
+246,1917981.87,Hipermarkets,231.082153012,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+247,162219.45,Supermarkets,324.4389,Alicante,touristic,Alicante,14962,The Socials,1
+248,39156.53,Supermarkets,24.47283125,Avila,Primary Sector,Avila,11577,Slow stores,4
+249,126182.53,Supermarkets,315.456325,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+250,2342114.08,Hipermarkets,207.2667327434,Vizcaya,Industrial,Vizcaya,15555,Smaller Metropolis,5
+251,111147.28,Supermarkets,222.29456,Albacete,Industrial,Albacete,11104,Suburban Stores,0
+252,154595.73,Supermarkets,193.2446625,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+253,384546.03,Supermarkets,226.2035470588,Valencia,Industrial,Valencia,12333,Traditional Store,3
+254,39277.4,Supermarkets,130.9246666667,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+255,100514.75,Supermarkets,143.5925,Asturias,Industrial,Asturias,13505,Traditional Store,3
+256,363759.58,Supermarkets,909.39895,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Cosmopolitans,6
+257,28650.94,Supermarkets,40.9299142857,Badajoz,Industrial,Badajoz,10001,Suburban Stores,0
+258,8285.38,Supermarkets,4.6029888889,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+259,684651.35,Hipermarkets,79.610622093,Huelva,Primary Sector,Huelva,10112,Suburban Stores,0
+260,39006.53,Supermarkets,195.03265,Segovia,Primary Sector,Segovia,12722,Slow stores,4
+261,374033.14,Supermarkets,170.0150636364,Baleares,touristic,Baleares,12486,Slow stores,4
+262,46922.87,Supermarkets,93.84574,Navarra,Primary Sector,Navarra,14718,Slow stores,4
+263,664223.39,Supermarkets,415.13961875,Teruel,Primary Sector,Teruel,12656,For the tourists,2
+264,2401329.6,Hipermarkets,252.7715368421,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+265,108028.05,Supermarkets,540.14025,Guipuzkoa,Industrial,Guipuzkoa,16399,The Socials,1
+266,16.32,Supermarkets,0.03264,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+267,240575.73,Hipermarkets,80.19191,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+268,83732.91,Supermarkets,279.1097,Palencia,Primary Sector,Palencia,13153,Slow stores,4
+269,23.76,Hipermarkets,0.0067885714,Malaga,touristic,Malaga,10261,Suburban Stores,0
+270,225006.73,Supermarkets,160.7190928571,Huelva,Primary Sector,Huelva,10112,Suburban Stores,0
+271,551762.84,Supermarkets,424.4329538462,Sevilla,Industrial,Sevilla,10717,For the tourists,2
+272,1332276.57,Hipermarkets,117.9005814159,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+273,151512.41,Supermarkets,168.3471222222,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+274,56904.62,Supermarkets,71.130775,Burgos,Primary Sector,Burgos,13777,Slow stores,4
+275,212746.52,Supermarkets,151.9618,Asturias,Industrial,Asturias,13505,Traditional Store,3
+276,2646423.84,Hipermarkets,206.7518625,Malaga,touristic,Malaga,10261,Suburban Stores,0
+277,995666.48,Hipermarkets,199.133296,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+278,385149.87,Supermarkets,202.7104578947,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+279,2886.63,Supermarkets,9.6221,Lleida,Primary Sector,Lleida,12896,Slow stores,4
+280,1203169.65,Hipermarkets,108.3936621622,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+281,103331.66,Hipermarkets,29.5233314286,Malaga,touristic,Malaga,10261,Suburban Stores,0
+282,3547979.26,Hipermarkets,308.5199356522,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+283,106258.52,Supermarkets,531.2926,Sevilla,Industrial,Sevilla,10717,For the tourists,2
+284,65553.67,Supermarkets,131.10734,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+285,2043946.66,Hipermarkets,208.5659857143,Leon,Primary Sector,Leon,12917,Slow stores,4
+286,218254.83,Hipermarkets,80.8351222222,Huesca,Primary Sector,Huesca,13158,Slow stores,4
+287,13398.45,Supermarkets,66.99225,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+288,87388.09,Supermarkets,54.61755625,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+289,32733.97,Supermarkets,109.1132333333,Huesca,Primary Sector,Huesca,13158,Slow stores,4
+290,241716.97,Supermarkets,345.3099571429,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+291,123505.95,Supermarkets,95.0045769231,Leon,Primary Sector,Leon,12917,Slow stores,4
+292,380613.34,Supermarkets,211.4518555556,Malaga,touristic,Malaga,10261,Suburban Stores,0
+293,127158.53,Supermarkets,158.9481625,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+294,9.44,Supermarkets,0.0157333333,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+295,145321.25,Supermarkets,96.8808333333,Zamora,Primary Sector,Zamora,11737,Slow stores,4
+296,243251.49,Supermarkets,304.0643625,Badajoz,Industrial,Badajoz,10001,For the tourists,2
+297,1525498.29,Hipermarkets,118.2556813953,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+298,3367.61,Supermarkets,16.83805,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+299,24.6,Supermarkets,0.015375,Leon,Primary Sector,Leon,12917,Slow stores,4
+300,63857.65,Supermarkets,127.7153,Valencia,Industrial,Valencia,12333,Traditional Store,3
+301,527572.8,Supermarkets,239.8058181818,Girona,touristic,Girona,12865,Slow stores,4
+302,4631450.14,Hipermarkets,432.8458074766,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+303,170494.99,Supermarkets,113.6633266667,Leon,Primary Sector,Leon,12917,Slow stores,4
+304,6262.69,Supermarkets,10.4378166667,Asturias,Industrial,Asturias,13505,Traditional Store,3
+305,178678.24,Supermarkets,446.6956,Valladolid,Industrial,Valladolid,13490,For the tourists,2
+306,2380325.21,Hipermarkets,280.03826,Sevilla,Industrial,Sevilla,10717,For the tourists,2
+307,521215.93,Supermarkets,372.2970928571,Malaga,touristic,Malaga,10261,For the tourists,2
+308,2556306.63,Hipermarkets,623.4894219512,Caceres,Primary Sector,Caceres,10660,For the tourists,2
+309,87328.89,Supermarkets,124.7555571429,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+310,12686.2,Supermarkets,42.2873333333,Navarra,Primary Sector,Navarra,14718,Slow stores,4
+311,13809.27,Supermarkets,27.61854,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+312,350376.54,Supermarkets,269.5204153846,Valencia,Industrial,Valencia,12333,For the tourists,2
+313,70578.27,Supermarkets,352.89135,Barcelona,Metropolis,Barcelona,14676,The Socials,1
+314,193255.83,Supermarkets,241.5697875,La Rioja,Industrial,La Rioja,12738,Traditional Store,3
+315,29513.8,Supermarkets,59.0276,Pontevedra,Industrial,Pontevedra,11881,Traditional Store,3
+316,44279.41,Supermarkets,88.55882,Valencia,Industrial,Valencia,12333,Traditional Store,3
+317,376161.14,Hipermarkets,47.6153341772,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+318,6409.39,Supermarkets,32.04695,Asturias,Industrial,Asturias,13505,Traditional Store,3
+319,104445.58,Supermarkets,174.0759666667,Alava,Industrial,Alava,14962,Traditional Store,3
+320,213068.36,Supermarkets,266.33545,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+321,15.96,Supermarkets,0.0532,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+322,49163.6,Supermarkets,122.909,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+323,34394.46,Supermarkets,49.1349428571,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+324,237514.07,Supermarkets,339.3058142857,Valencia,Industrial,Valencia,12333,For the tourists,2
+325,14764.61,Supermarkets,36.911525,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+326,17366.49,Supermarkets,21.7081125,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+327,86073.17,Supermarkets,286.9105666667,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+328,29111.51,Supermarkets,41.5878714286,Asturias,Industrial,Asturias,13505,Traditional Store,3
+329,791725.03,Supermarkets,395.862515,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+330,46.86,Supermarkets,0.0334714286,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+331,477611.56,Supermarkets,530.6795111111,Alicante,touristic,Alicante,14962,The Socials,1
+332,147521.35,Hipermarkets,52.6861964286,Lugo,Industrial,Lugo,12021,Traditional Store,3
+333,17774.78,Supermarkets,88.8739,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+334,727725.91,Hipermarkets,242.5753033333,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+335,166893.62,Supermarkets,333.78724,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+336,4215578.17,Hipermarkets,342.7299325203,Alicante,touristic,Alicante,14962,The Socials,1
+337,154091.65,Supermarkets,220.1309285714,La Rioja,Industrial,La Rioja,12738,Traditional Store,3
+338,4315.76,Supermarkets,7.1929333333,Asturias,Industrial,Asturias,13505,Traditional Store,3
+339,2836.85,Supermarkets,5.6737,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+340,105024.64,Supermarkets,175.0410666667,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+341,192406.32,Supermarkets,384.81264,Almeria,Primary Sector,Almeria,9709,For the tourists,2
+342,998814.82,Hipermarkets,83.9340184874,Vizcaya,Industrial,Vizcaya,15555,Smaller Metropolis,5
+343,64563.24,Supermarkets,92.2332,Badajoz,Industrial,Badajoz,10001,Suburban Stores,0
+344,1056432.7,Supermarkets,621.431,Alicante,touristic,Alicante,14962,The Socials,1
+345,29276.65,Supermarkets,48.7944166667,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+346,99698.75,Supermarkets,58.6463235294,Malaga,touristic,Malaga,10261,Suburban Stores,0
+347,927279.31,Hipermarkets,57.954956875,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+348,129962.46,Supermarkets,129.96246,Ourense,Industrial,Ourense,11937,Traditional Store,3
+349,790724.76,Hipermarkets,87.8583066667,Albacete,Industrial,Albacete,11104,Suburban Stores,0
+350,19.68,Supermarkets,0.0151384615,Valencia,Industrial,Valencia,12333,Traditional Store,3
+351,141594.39,Supermarkets,108.9187615385,Valencia,Industrial,Valencia,12333,Traditional Store,3
+352,109403.92,Supermarkets,547.0196,Baleares,touristic,Baleares,12486,For the tourists,2
+353,16557.8,Supermarkets,27.5963333333,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+354,135003.9,Supermarkets,122.7308181818,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+355,7716.98,Supermarkets,12.8616333333,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+356,8970.89,Supermarkets,5.9805933333,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+357,427463.62,Supermarkets,356.2196833333,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+358,29522.86,Supermarkets,98.4095333333,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+359,39411.82,Supermarkets,56.3026,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+360,124883.97,Supermarkets,312.209925,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+361,14887.4,Supermarkets,74.437,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+362,1436938.75,Hipermarkets,495.4961206897,Baleares,touristic,Baleares,12486,For the tourists,2
+363,407133.85,Hipermarkets,54.2845133333,Caceres,Primary Sector,Caceres,10660,Suburban Stores,0
+364,22045.22,Supermarkets,13.7782625,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+365,1069636.34,Supermarkets,427.854536,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+366,7914.66,Supermarkets,13.1911,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+367,8.7,Supermarkets,0.0145,Leon,Primary Sector,Leon,12917,Slow stores,4
+368,541.2,Supermarkets,1.804,Pontevedra,Industrial,Pontevedra,11881,Traditional Store,3
+369,58215.97,Supermarkets,291.07985,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+370,144993.63,Supermarkets,207.1337571429,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+371,833027.53,Hipermarkets,93.5985988764,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+372,2946786.99,Hipermarkets,589.357398,Ciudad Real,Industrial,Ciudad Real,10570,For the tourists,2
+374,138463.6,Supermarkets,276.9272,Pontevedra,Industrial,Pontevedra,11881,For the tourists,2
+375,257688.93,Supermarkets,198.2222538462,Malaga,touristic,Malaga,10261,Suburban Stores,0
+376,61303.72,Supermarkets,122.60744,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+377,18475.37,Supermarkets,61.5845666667,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+378,38718.12,Hipermarkets,11.7327636364,Pontevedra,Industrial,Pontevedra,11881,Traditional Store,3
+379,161917.17,Supermarkets,539.7239,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+380,2777299.53,Hipermarkets,239.4223732759,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+381,366637.69,Supermarkets,523.7681285714,Navarra,Primary Sector,Navarra,14718,The Socials,1
+382,83897.27,Supermarkets,419.48635,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+383,64869.96,Supermarkets,27.02915,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+384,33130.11,Supermarkets,110.4337,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+385,47506.4,Supermarkets,158.3546666667,Malaga,touristic,Malaga,10261,Suburban Stores,0
+386,543706.57,Supermarkets,286.1613526316,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+387,110437.35,Supermarkets,552.18675,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+388,88862.29,Supermarkets,296.2076333333,La Coruña,Industrial,La Coruña,12841,For the tourists,2
+389,341015.03,Supermarkets,262.3192538462,Ourense,Industrial,Ourense,11937,For the tourists,2
+390,45285.97,Supermarkets,90.57194,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+391,3950522.11,Hipermarkets,383.5458359223,Granada,Industrial,Granada,10463,For the tourists,2
+392,1291.82,Supermarkets,2.1530333333,Asturias,Industrial,Asturias,13505,Traditional Store,3
+393,51609.6,Supermarkets,103.2192,Asturias,Industrial,Asturias,13505,Traditional Store,3
+394,107709.58,Supermarkets,215.41916,Huelva,Primary Sector,Huelva,10112,Suburban Stores,0
+395,4524.64,Supermarkets,9.04928,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+396,274235.35,Hipermarkets,80.6574558824,Baleares,touristic,Baleares,12486,Slow stores,4
+397,7178.23,Supermarkets,11.9637166667,Asturias,Industrial,Asturias,13505,Traditional Store,3
+398,84558.12,Supermarkets,281.8604,Cadiz,Industrial,Cadiz,10113,For the tourists,2
+399,317861.2,Supermarkets,317.8612,Valencia,Industrial,Valencia,12333,For the tourists,2
+400,238558.81,Supermarkets,298.1985125,Baleares,touristic,Baleares,12486,For the tourists,2
+401,419804.09,Supermarkets,699.6734833333,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+402,135438.92,Supermarkets,451.4630666667,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+403,17319.47,Supermarkets,24.7421,Asturias,Industrial,Asturias,13505,Traditional Store,3
+404,240057.4,Supermarkets,800.1913333333,Madrid,Metropolis,Madrid,15579,Cosmopolitans,6
+405,142765.14,Supermarkets,89.2282125,Asturias,Industrial,Asturias,13505,Traditional Store,3
+406,41918.69,Supermarkets,26.19918125,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+407,34687.48,Hipermarkets,10.2022,Leon,Primary Sector,Leon,12917,Slow stores,4
+408,169941.22,Supermarkets,283.2353666667,Sevilla,Industrial,Sevilla,10717,For the tourists,2
+410,88434.42,Supermarkets,294.7814,Asturias,Industrial,Asturias,13505,Traditional Store,3
+411,469186.85,Supermarkets,335.1334642857,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+412,245699.15,Supermarkets,614.247875,Zaragoza,Industrial,Zaragoza,13637,For the tourists,2
+413,163514.47,Supermarkets,233.5921,Vizcaya,Industrial,Vizcaya,15555,Smaller Metropolis,5
+414,555206.44,Supermarkets,277.60322,Guipuzkoa,Industrial,Guipuzkoa,16399,The Socials,1
+415,4280.36,Supermarkets,14.2678666667,Lugo,Industrial,Lugo,12021,Traditional Store,3
+416,26542.51,Hipermarkets,9.1525896552,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+417,1163108.36,Hipermarkets,306.0811473684,Girona,touristic,Girona,12865,For the tourists,2
+419,218936.17,Supermarkets,273.6702125,Avila,Primary Sector,Avila,11577,Slow stores,4
+420,956849.42,Hipermarkets,258.6079513514,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+422,221377.0,Supermarkets,1106.885,Valencia,Industrial,Valencia,12333,Cosmopolitans,6
+423,3373.38,Supermarkets,5.6223,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+424,242325.46,Supermarkets,605.81365,Cadiz,Industrial,Cadiz,10113,For the tourists,2
+426,162190.94,Hipermarkets,19.5410771084,Lugo,Industrial,Lugo,12021,Traditional Store,3
+427,178115.99,Supermarkets,161.9236272727,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+428,15739.63,Supermarkets,22.4851857143,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+429,207270.21,Supermarkets,148.05015,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+430,580757.5,Supermarkets,362.9734375,Teruel,Primary Sector,Teruel,12656,Slow stores,4
+431,277.54,Supermarkets,0.9251333333,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+432,193362.7,Supermarkets,241.703375,Ciudad Real,Industrial,Ciudad Real,10570,Suburban Stores,0
+433,28168.65,Supermarkets,70.421625,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+434,457558.83,Hipermarkets,46.6896765306,Malaga,touristic,Malaga,10261,Suburban Stores,0
+435,333502.88,Hipermarkets,128.2703384615,Huesca,Primary Sector,Huesca,13158,Slow stores,4
+436,106877.06,Supermarkets,356.2568666667,Vizcaya,Industrial,Vizcaya,15555,The Socials,1
+437,379167.3,Supermarkets,210.6485,Girona,touristic,Girona,12865,Slow stores,4
+438,884498.81,Supermarkets,421.1899095238,Alicante,touristic,Alicante,14962,The Socials,1
+439,71169.26,Supermarkets,142.33852,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+440,542667.83,Supermarkets,301.4821277778,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+441,204547.1,Supermarkets,292.2101428571,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+442,757815.39,Supermarkets,445.7737588235,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+443,133486.85,Supermarkets,148.3187222222,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+444,243069.3,Supermarkets,270.077,Baleares,touristic,Baleares,12486,For the tourists,2
+445,1545990.87,Hipermarkets,309.198174,Jaen,Industrial,Jaen,9958,For the tourists,2
+446,384677.11,Hipermarkets,96.1692775,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+447,402871.74,Supermarkets,447.6352666667,Alicante,touristic,Alicante,14962,The Socials,1
+448,1.68,Supermarkets,9.333333E-4,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+449,716219.97,Hipermarkets,255.7928464286,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+450,1365057.1,Supermarkets,546.02284,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+451,1470.74,Supermarkets,3.67685,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+452,85893.09,Supermarkets,286.3103,Pontevedra,Industrial,Pontevedra,11881,For the tourists,2
+453,311925.65,Supermarkets,222.8040357143,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+454,277724.9,Supermarkets,252.4771818182,Cantabria,Industrial,Cantabria,12865,Traditional Store,3
+455,369120.25,Supermarkets,461.4003125,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+456,6164.94,Supermarkets,30.8247,Leon,Primary Sector,Leon,12917,Slow stores,4
+457,74896.22,Supermarkets,46.8101375,Asturias,Industrial,Asturias,13505,Traditional Store,3
+458,1049137.6,Supermarkets,456.1467826087,Baleares,touristic,Baleares,12486,For the tourists,2
+459,398621.63,Supermarkets,284.7297357143,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+460,47060.74,Supermarkets,67.2296285714,Valencia,Industrial,Valencia,12333,Traditional Store,3
+461,4221928.98,Hipermarkets,324.7637676923,Zaragoza,Industrial,Zaragoza,13637,For the tourists,2
+462,57173.89,Supermarkets,114.34778,Granada,Industrial,Granada,10463,Suburban Stores,0
+463,27890.66,Supermarkets,39.8438,Asturias,Industrial,Asturias,13505,Traditional Store,3
+464,926533.37,Supermarkets,370.613348,Sevilla,Industrial,Sevilla,10717,For the tourists,2
+465,134074.88,Supermarkets,167.5936,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+466,170343.53,Supermarkets,425.858825,Guipuzkoa,Industrial,Guipuzkoa,16399,The Socials,1
+467,11463.9,Supermarkets,38.213,Leon,Primary Sector,Leon,12917,Slow stores,4
+468,399079.08,Supermarkets,306.9839076923,Burgos,Primary Sector,Burgos,13777,Slow stores,4
+469,174511.39,Supermarkets,218.1392375,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+470,500750.24,Hipermarkets,151.7424969697,Soria,Primary Sector,Soria,13889,Slow stores,4
+471,275782.02,Supermarkets,551.56404,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+472,51639.85,Supermarkets,103.2797,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+473,149137.49,Hipermarkets,18.8781632911,Cuenca,Primary Sector,Cuenca,10991,Suburban Stores,0
+474,9332.61,Supermarkets,31.1087,Asturias,Industrial,Asturias,13505,Traditional Store,3
+476,19444.05,Supermarkets,32.40675,Leon,Primary Sector,Leon,12917,Slow stores,4
+477,397618.69,Supermarkets,172.8776913043,Lleida,Primary Sector,Lleida,12896,Slow stores,4
+478,48176.31,Supermarkets,30.11019375,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+479,176029.0,Supermarkets,110.018125,Malaga,touristic,Malaga,10261,Suburban Stores,0
+480,2122279.15,Hipermarkets,303.1827357143,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+481,312016.57,Supermarkets,445.7379571429,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+482,8746.81,Supermarkets,5.46675625,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+483,2693116.22,Hipermarkets,264.0310019608,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+484,549225.97,Supermarkets,549.22597,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+485,1551490.86,Hipermarkets,172.3878733333,Cadiz,Industrial,Cadiz,10113,Suburban Stores,0
+486,518164.17,Hipermarkets,126.381504878,Guadalajara,Primary Sector,Guadalajara,12624,Slow stores,4
+487,7190.56,Supermarkets,11.9842666667,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+488,264485.06,Supermarkets,165.3031625,Zaragoza,Industrial,Zaragoza,13637,Traditional Store,3
+489,191217.9,Supermarkets,119.5111875,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+490,1773089.96,Hipermarkets,142.9911258065,Guipuzkoa,Industrial,Guipuzkoa,16399,Smaller Metropolis,5
+491,2337482.61,Hipermarkets,205.0423342105,Murcia,Industrial,Murcia,10574,Suburban Stores,0
+492,251775.43,Supermarkets,228.8867545455,Ciudad Real,Industrial,Ciudad Real,10570,Suburban Stores,0
+493,3084.92,Supermarkets,5.1415333333,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+494,317.99,Supermarkets,1.58995,Asturias,Industrial,Asturias,13505,Traditional Store,3
+495,33710.02,Supermarkets,67.42004,Malaga,touristic,Malaga,10261,Suburban Stores,0
+496,37595.94,Hipermarkets,9.6399846154,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+497,449323.8,Supermarkets,280.827375,Valencia,Industrial,Valencia,12333,For the tourists,2
+498,204328.97,Supermarkets,227.0321888889,Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+499,23205.55,Supermarkets,38.6759166667,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+500,50679.89,Supermarkets,126.699725,Huelva,Primary Sector,Huelva,10112,Suburban Stores,0
+501,3979.39,Supermarkets,1.8088136364,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+502,407164.33,Hipermarkets,119.7542147059,Castellon,Primary Sector,Castellon,12079,Slow stores,4
+503,50384.46,Supermarkets,125.96115,Asturias,Industrial,Asturias,13505,Traditional Store,3
+504,784659.04,Hipermarkets,124.5490539683,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+505,319064.94,Hipermarkets,96.6863454545,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+506,1194603.56,Hipermarkets,75.1322993711,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+507,881080.82,Hipermarkets,50.0614102273,Valencia,Industrial,Valencia,12333,Traditional Store,3
+508,1856475.31,Hipermarkets,143.9128147287,Cordoba,Industrial,Cordoba,10314,Suburban Stores,0
+509,102891.13,Hipermarkets,10.7178260417,Asturias,Industrial,Asturias,13505,Traditional Store,3
+510,20751.59,Supermarkets,29.6451285714,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+511,259648.47,Supermarkets,152.7343941176,Palencia,Primary Sector,Palencia,13153,Slow stores,4
+512,154732.93,Supermarkets,154.73293,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+513,3344293.44,Hipermarkets,423.3282835443,Salamanca,Industrial,Salamanca,12355,For the tourists,2
+514,1089035.71,Supermarkets,495.0162318182,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+516,337227.32,Supermarkets,168.61366,Albacete,Industrial,Albacete,11104,Suburban Stores,0
+517,656421.88,Hipermarkets,97.9734149254,Guadalajara,Primary Sector,Guadalajara,12624,Slow stores,4
+518,192677.91,Supermarkets,642.2597,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+519,5378.01,Supermarkets,26.89005,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+520,437092.34,Supermarkets,1456.9744666667,Guadalajara,Primary Sector,Guadalajara,12624,Cosmopolitans,6
+521,85225.53,Supermarkets,60.8753785714,Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+522,22209.76,Supermarkets,74.0325333333,Badajoz,Industrial,Badajoz,10001,Suburban Stores,0
+523,2512051.56,Hipermarkets,232.5973666667,Valencia,Industrial,Valencia,12333,Traditional Store,3
+524,20619.71,Supermarkets,68.7323666667,Alicante,touristic,Alicante,14962,Smaller Metropolis,5
+525,279610.72,Hipermarkets,99.8609714286,Valencia,Industrial,Valencia,12333,Traditional Store,3
+526,554605.94,Hipermarkets,123.2457644444,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+527,1385356.85,Hipermarkets,104.9512765152,Asturias,Industrial,Asturias,13505,Traditional Store,3
+528,324457.73,Supermarkets,648.91546,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+529,146575.39,Supermarkets,366.438475,Valencia,Industrial,Valencia,12333,For the tourists,2
+530,132514.08,Supermarkets,132.51408,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+531,29160.24,Supermarkets,72.9006,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+532,130959.68,Supermarkets,145.5107555556,Sevilla,Industrial,Sevilla,10717,Suburban Stores,0
+533,380647.58,Supermarkets,380.64758,Area Metropolitana de Madrid,Metropolis,Madrid,15579,The Socials,1
+534,689982.28,Supermarkets,627.2566181818,Guadalajara,Primary Sector,Guadalajara,12624,For the tourists,2
+535,137078.96,Supermarkets,195.8270857143,Malaga,touristic,Malaga,10261,Suburban Stores,0
+536,541857.91,Supermarkets,270.928955,Area Metropolitana de Madrid,Metropolis,Madrid,15579,Smaller Metropolis,5
+537,165033.99,Supermarkets,235.7628428571,Baleares,touristic,Baleares,12486,Slow stores,4
+538,14535.04,Supermarkets,72.6752,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+539,693638.24,Supermarkets,277.455296,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,Smaller Metropolis,5
+540,31979.48,Supermarkets,159.8974,Lleida,Primary Sector,Lleida,12896,Slow stores,4
+541,1079677.89,Supermarkets,635.1046411765,Murcia,Industrial,Murcia,10574,For the tourists,2
+542,72525.95,Supermarkets,241.7531666667,Salamanca,Industrial,Salamanca,12355,Traditional Store,3
+543,29720.7,Supermarkets,99.069,Soria,Primary Sector,Soria,13889,Slow stores,4
+544,33643.94,Supermarkets,336.4394,Cantabria,Industrial,Cantabria,12865,For the tourists,2
+545,2785841.81,Hipermarkets,327.7460952941,Burgos,Primary Sector,Burgos,13777,Slow stores,4
+546,10064.19,Supermarkets,16.77365,Valladolid,Industrial,Valladolid,13490,Traditional Store,3
+547,170002.32,Supermarkets,85.00116,Lugo,Industrial,Lugo,12021,Traditional Store,3
+548,409896.08,Supermarkets,227.7200444444,La Coruña,Industrial,La Coruña,12841,Traditional Store,3
+549,12701.95,Supermarkets,21.1699166667,Almeria,Primary Sector,Almeria,9709,Suburban Stores,0
+550,3833381.94,Hipermarkets,311.6570682927,Valencia,Industrial,Valencia,12333,For the tourists,2
+551,1490196.27,Hipermarkets,179.5417192771,Tarragona,Primary Sector,Tarragona,12491,Slow stores,4
+552,531.13,Supermarkets,0.8852166667,Asturias,Industrial,Asturias,13505,Traditional Store,3
+553,3370265.24,Hipermarkets,327.2102174757,Albacete,Industrial,Albacete,11104,For the tourists,2
+554,378730.1,Supermarkets,420.8112222222,Alicante,touristic,Alicante,14962,The Socials,1
+555,221816.45,Supermarkets,369.6940833333,Area Metropolitana de Barcelona,Metropolis,Barcelona,14676,The Socials,1
+556,298543.37,Supermarkets,186.58960625,Leon,Primary Sector,Leon,12917,Slow stores,4
+557,203124.14,Supermarkets,406.24828,Burgos,Primary Sector,Burgos,13777,Slow stores,4
